@@ -59,3 +59,31 @@ This project is an interactive Power BI dashboard built to analyze e-commerce sa
 **Sushant Kumar Singh**
 
 Aspiring Data Analyst | Power BI | SQL | Excel | Python
+
+---
+
+# 📷 Dashboard Screenshots
+
+## 🏠 Home Page
+![Home](Screenshots/1_Home.png)
+
+## 💲 Price Variation Analysis
+![Price Variation](Screenshots/2_Price_Variation.png)
+
+## 🚦 Traffic Variation
+![Traffic Variation](Screenshots/3_Traffic_Variation.png)
+
+## 📊 High Level Metrics
+![High Level Metrics](Screenshots/4_High_Level_Metrics.png)
+
+## 🏷️ Brand Analysis
+![Brand Analysis](Screenshots/5_Brand_Analysis.png)
+
+## 🎁 Promotion Analysis
+![Promotion Analysis](Screenshots/6_Promotion_Analysis.png)
+
+## 🔍 Search Behaviour
+![Search Behaviour](Screenshots/7_Search_Behaviour.png)
+
+## 💡 Business Insights
+![Business Insights](Screenshots/8_Business_Insights.png)
